@@ -1,0 +1,80 @@
+{
+  "os": "Linux-5.15.120.bsk.6-amd64-x86_64-with-glibc2.36",
+  "python": "CPython 3.12.9",
+  "startedAt": "2025-04-03T12:14:29.955817Z",
+  "program": "/mnt/hdfs/zhusiqi/playground/infer.py",
+  "codePath": "infer.py",
+  "email": "zhusq20@gmail.com",
+  "root": "/mnt/hdfs/zhusiqi/playground",
+  "host": "dccd-pcdf1-208-0-0-0-34",
+  "executable": "/home/tiger/miniconda3/bin/python",
+  "codePathLocal": "infer.py",
+  "cpu_count": 112,
+  "cpu_count_logical": 224,
+  "gpu": "NVIDIA H800",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "3660656484352",
+      "used": "211520921600"
+    }
+  },
+  "memory": {
+    "total": "3245490655232"
+  },
+  "cpu": {
+    "count": 112,
+    "countLogical": 224
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H800",
+      "memoryTotal": "85520809984",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

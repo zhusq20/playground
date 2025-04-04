@@ -1,0 +1,25 @@
+{"time":"2025-04-03T19:54:45.902674192+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_195445-09ybmplk/logs/debug-core.log"}
+{"time":"2025-04-03T19:54:56.780520857+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-04-03T19:55:09.674604181+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-04-03T19:55:15.279734074+08:00","level":"INFO","msg":"created new stream","id":"09ybmplk"}
+{"time":"2025-04-03T19:55:15.279873269+08:00","level":"INFO","msg":"stream: started","id":"09ybmplk"}
+{"time":"2025-04-03T19:55:15.279919591+08:00","level":"INFO","msg":"handler: started","stream_id":"09ybmplk"}
+{"time":"2025-04-03T19:55:15.279893149+08:00","level":"INFO","msg":"sender: started","stream_id":"09ybmplk"}
+{"time":"2025-04-03T19:55:15.279885799+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"09ybmplk"}
+{"time":"2025-04-03T19:55:16.282578898+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T19:55:22.081982617+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_195445-09ybmplk/files/output.log: errno 255"}
+{"time":"2025-04-03T19:55:28.964851183+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": EOF"}
+{"time":"2025-04-03T19:56:43.957309389+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": EOF"}
+{"time":"2025-04-03T20:00:58.982734989+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": EOF"}
+{"time":"2025-04-03T20:12:20.492029355+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T20:12:35.153725626+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T20:12:47.760894897+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": EOF"}
+{"time":"2025-04-03T20:13:03.077778115+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/09ybmplk/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T20:13:09.438427089+08:00","level":"INFO","msg":"stream: closing","id":"09ybmplk"}
+{"time":"2025-04-03T20:13:09.4384558+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T20:13:09.438637427+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T20:13:11.904414109+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T20:13:13.045029503+08:00","level":"INFO","msg":"handler: closed","stream_id":"09ybmplk"}
+{"time":"2025-04-03T20:13:13.045100701+08:00","level":"INFO","msg":"sender: closed","stream_id":"09ybmplk"}
+{"time":"2025-04-03T20:13:13.045094773+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"09ybmplk"}
+{"time":"2025-04-03T20:13:13.05312223+08:00","level":"INFO","msg":"stream: closed","id":"09ybmplk"}

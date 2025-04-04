@@ -1,0 +1,17 @@
+{"time":"2025-04-03T17:46:16.317960704+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_174616-2i1t8ket/logs/debug-core.log"}
+{"time":"2025-04-03T17:46:18.369625157+08:00","level":"INFO","msg":"created new stream","id":"2i1t8ket"}
+{"time":"2025-04-03T17:46:18.369841414+08:00","level":"INFO","msg":"stream: started","id":"2i1t8ket"}
+{"time":"2025-04-03T17:46:18.369847495+08:00","level":"INFO","msg":"sender: started","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:46:18.369848956+08:00","level":"INFO","msg":"handler: started","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:46:18.369873246+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:46:19.316773448+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T17:46:24.98243898+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_174616-2i1t8ket/files/output.log: errno 255"}
+{"time":"2025-04-03T17:46:46.03581189+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/2i1t8ket/file_stream\": EOF"}
+{"time":"2025-04-03T17:48:01.404690745+08:00","level":"INFO","msg":"stream: closing","id":"2i1t8ket"}
+{"time":"2025-04-03T17:48:01.404790136+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T17:48:01.404958747+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T17:48:03.255449551+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T17:48:04.735413426+08:00","level":"INFO","msg":"handler: closed","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:48:04.735470091+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:48:04.735482996+08:00","level":"INFO","msg":"sender: closed","stream_id":"2i1t8ket"}
+{"time":"2025-04-03T17:48:04.742500323+08:00","level":"INFO","msg":"stream: closed","id":"2i1t8ket"}

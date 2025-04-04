@@ -1,0 +1,16 @@
+{"time":"2025-04-03T17:50:50.215962735+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175050-xabytcfe/logs/debug-core.log"}
+{"time":"2025-04-03T17:50:51.194036784+08:00","level":"INFO","msg":"created new stream","id":"xabytcfe"}
+{"time":"2025-04-03T17:50:51.19423339+08:00","level":"INFO","msg":"stream: started","id":"xabytcfe"}
+{"time":"2025-04-03T17:50:51.194240822+08:00","level":"INFO","msg":"sender: started","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:50:51.194240097+08:00","level":"INFO","msg":"handler: started","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:50:51.194269833+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:50:51.789998579+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T17:50:58.074619757+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175050-xabytcfe/files/output.log: errno 255"}
+{"time":"2025-04-03T17:52:28.209882579+08:00","level":"INFO","msg":"stream: closing","id":"xabytcfe"}
+{"time":"2025-04-03T17:52:28.209979295+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T17:52:28.210161104+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T17:52:30.04042415+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T17:52:31.25572257+08:00","level":"INFO","msg":"handler: closed","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:52:31.255781327+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:52:31.255793479+08:00","level":"INFO","msg":"sender: closed","stream_id":"xabytcfe"}
+{"time":"2025-04-03T17:52:31.263904448+08:00","level":"INFO","msg":"stream: closed","id":"xabytcfe"}

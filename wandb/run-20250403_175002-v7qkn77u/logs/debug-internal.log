@@ -1,0 +1,8 @@
+{"time":"2025-04-03T17:50:02.529839092+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175002-v7qkn77u/logs/debug-core.log"}
+{"time":"2025-04-03T17:50:03.759011611+08:00","level":"INFO","msg":"created new stream","id":"v7qkn77u"}
+{"time":"2025-04-03T17:50:03.759147055+08:00","level":"INFO","msg":"stream: started","id":"v7qkn77u"}
+{"time":"2025-04-03T17:50:03.759161375+08:00","level":"INFO","msg":"sender: started","stream_id":"v7qkn77u"}
+{"time":"2025-04-03T17:50:03.759160245+08:00","level":"INFO","msg":"handler: started","stream_id":"v7qkn77u"}
+{"time":"2025-04-03T17:50:03.759197806+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"v7qkn77u"}
+{"time":"2025-04-03T17:50:04.40968092+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T17:50:10.064060307+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175002-v7qkn77u/files/output.log: errno 255"}

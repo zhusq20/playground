@@ -1,0 +1,8 @@
+{"time":"2025-04-03T17:56:59.505620712+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175659-kom5tl3d/logs/debug-core.log"}
+{"time":"2025-04-03T17:57:00.607450292+08:00","level":"INFO","msg":"created new stream","id":"kom5tl3d"}
+{"time":"2025-04-03T17:57:00.607569325+08:00","level":"INFO","msg":"stream: started","id":"kom5tl3d"}
+{"time":"2025-04-03T17:57:00.60758488+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"kom5tl3d"}
+{"time":"2025-04-03T17:57:00.607603533+08:00","level":"INFO","msg":"handler: started","stream_id":"kom5tl3d"}
+{"time":"2025-04-03T17:57:00.607608834+08:00","level":"INFO","msg":"sender: started","stream_id":"kom5tl3d"}
+{"time":"2025-04-03T17:57:01.625029452+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T17:57:07.280023833+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175659-kom5tl3d/files/output.log: errno 255"}

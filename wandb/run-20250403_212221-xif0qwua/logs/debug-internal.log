@@ -1,0 +1,16 @@
+{"time":"2025-04-03T21:22:21.169416296+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_212221-xif0qwua/logs/debug-core.log"}
+{"time":"2025-04-03T21:22:22.580320604+08:00","level":"INFO","msg":"created new stream","id":"xif0qwua"}
+{"time":"2025-04-03T21:22:22.580449489+08:00","level":"INFO","msg":"stream: started","id":"xif0qwua"}
+{"time":"2025-04-03T21:22:22.580476909+08:00","level":"INFO","msg":"handler: started","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:22.580470255+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:22.580489459+08:00","level":"INFO","msg":"sender: started","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:23.308483258+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:22:29.141185458+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_212221-xif0qwua/files/output.log: errno 255"}
+{"time":"2025-04-03T21:22:30.048474903+08:00","level":"INFO","msg":"stream: closing","id":"xif0qwua"}
+{"time":"2025-04-03T21:22:30.048499448+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T21:22:30.048697223+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T21:22:32.010821033+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T21:22:33.019698507+08:00","level":"INFO","msg":"handler: closed","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:33.019762445+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:33.019784204+08:00","level":"INFO","msg":"sender: closed","stream_id":"xif0qwua"}
+{"time":"2025-04-03T21:22:33.114027037+08:00","level":"INFO","msg":"stream: closed","id":"xif0qwua"}

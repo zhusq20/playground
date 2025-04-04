@@ -1,0 +1,19 @@
+{"time":"2025-04-03T18:03:50.409767103+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_180350-w68zwils/logs/debug-core.log"}
+{"time":"2025-04-03T18:03:51.570055448+08:00","level":"INFO","msg":"created new stream","id":"w68zwils"}
+{"time":"2025-04-03T18:03:51.570166986+08:00","level":"INFO","msg":"stream: started","id":"w68zwils"}
+{"time":"2025-04-03T18:03:51.570214512+08:00","level":"INFO","msg":"handler: started","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:03:51.570191164+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:03:51.570196452+08:00","level":"INFO","msg":"sender: started","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:03:52.25104911+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T18:03:58.046587854+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_180350-w68zwils/files/output.log: errno 255"}
+{"time":"2025-04-03T18:09:33.771917604+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/w68zwils/file_stream\": EOF"}
+{"time":"2025-04-03T18:10:07.917350039+08:00","level":"INFO","msg":"stream: closing","id":"w68zwils"}
+{"time":"2025-04-03T18:10:07.917381717+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T18:10:07.917551062+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T18:10:10.002908913+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T18:10:20.004649576+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/w68zwils/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T18:10:32.55269707+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/w68zwils/file_stream\": EOF"}
+{"time":"2025-04-03T18:10:37.699491171+08:00","level":"INFO","msg":"handler: closed","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:10:37.699563965+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:10:37.699585575+08:00","level":"INFO","msg":"sender: closed","stream_id":"w68zwils"}
+{"time":"2025-04-03T18:10:37.705206971+08:00","level":"INFO","msg":"stream: closed","id":"w68zwils"}

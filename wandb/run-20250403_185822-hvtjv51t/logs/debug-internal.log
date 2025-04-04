@@ -1,0 +1,13 @@
+{"time":"2025-04-03T18:58:22.368340938+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_185822-hvtjv51t/logs/debug-core.log"}
+{"time":"2025-04-03T18:58:33.100304825+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-04-03T18:58:36.181897629+08:00","level":"INFO","msg":"created new stream","id":"hvtjv51t"}
+{"time":"2025-04-03T18:58:36.182023372+08:00","level":"INFO","msg":"stream: started","id":"hvtjv51t"}
+{"time":"2025-04-03T18:58:36.182044929+08:00","level":"INFO","msg":"sender: started","stream_id":"hvtjv51t"}
+{"time":"2025-04-03T18:58:36.182060923+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"hvtjv51t"}
+{"time":"2025-04-03T18:58:36.182044673+08:00","level":"INFO","msg":"handler: started","stream_id":"hvtjv51t"}
+{"time":"2025-04-03T18:58:37.014514287+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T18:58:42.778858718+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_185822-hvtjv51t/files/output.log: errno 255"}
+{"time":"2025-04-03T19:00:03.614716826+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/hvtjv51t/file_stream\": EOF"}
+{"time":"2025-04-03T19:00:16.288539065+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/hvtjv51t/file_stream\": EOF"}
+{"time":"2025-04-03T19:01:18.212449546+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/hvtjv51t/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T19:02:18.64737911+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/hvtjv51t/file_stream\": EOF"}

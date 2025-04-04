@@ -1,0 +1,48 @@
+{"time":"2025-04-03T21:34:58.64685704+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_213458-yhkrnl3p/logs/debug-core.log"}
+{"time":"2025-04-03T21:35:00.230689308+08:00","level":"INFO","msg":"created new stream","id":"yhkrnl3p"}
+{"time":"2025-04-03T21:35:00.230838067+08:00","level":"INFO","msg":"stream: started","id":"yhkrnl3p"}
+{"time":"2025-04-03T21:35:00.230854222+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T21:35:00.230866204+08:00","level":"INFO","msg":"sender: started","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T21:35:00.230870501+08:00","level":"INFO","msg":"handler: started","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T21:35:01.103947528+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:35:07.104790338+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_213458-yhkrnl3p/files/output.log: errno 255"}
+{"time":"2025-04-03T21:35:13.620690761+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:35:28.618442893+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:35:43.721693637+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:36:43.691952117+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:40:28.785549652+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:40:43.756283894+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:42:13.654230282+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:42:43.647377743+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:45:28.660776476+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:46:29.033597031+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:49:01.211527606+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:49:33.698800475+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:49:43.630355305+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:50:08.321387216+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:50:48.261074683+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:51:35.30882874+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:53:09.777036654+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:53:22.569067027+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:53:41.453226518+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:54:10.890464897+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T21:58:45.888365686+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T21:59:00.107799409+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:59:16.220523066+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T21:59:31.65880405+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T22:00:31.230208648+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T22:06:01.257499367+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-04-03T22:06:33.317701019+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T22:07:07.495229347+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T22:07:45.735351805+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-03T22:08:41.876455409+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T22:08:54.50867071+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T22:09:09.401321261+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/yhkrnl3p/file_stream\": EOF"}
+{"time":"2025-04-03T22:09:45.322378845+08:00","level":"INFO","msg":"stream: closing","id":"yhkrnl3p"}
+{"time":"2025-04-03T22:09:45.32243254+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T22:09:45.322569587+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T22:09:47.561928886+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T22:11:36.048916821+08:00","level":"INFO","msg":"handler: closed","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T22:11:36.04895014+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T22:11:36.048993726+08:00","level":"INFO","msg":"sender: closed","stream_id":"yhkrnl3p"}
+{"time":"2025-04-03T22:11:36.070320585+08:00","level":"INFO","msg":"stream: closed","id":"yhkrnl3p"}

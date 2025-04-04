@@ -1,0 +1,21 @@
+{"time":"2025-04-03T17:53:42.280918769+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175342-de4t05rf/logs/debug-core.log"}
+{"time":"2025-04-03T17:53:53.042498984+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-04-03T17:53:56.255397747+08:00","level":"INFO","msg":"created new stream","id":"de4t05rf"}
+{"time":"2025-04-03T17:53:56.25552913+08:00","level":"INFO","msg":"stream: started","id":"de4t05rf"}
+{"time":"2025-04-03T17:53:56.255545799+08:00","level":"INFO","msg":"sender: started","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:53:56.255546213+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:53:56.255573334+08:00","level":"INFO","msg":"handler: started","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:53:56.88953051+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T17:54:02.543542094+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_175342-de4t05rf/files/output.log: errno 255"}
+{"time":"2025-04-03T17:54:38.341690617+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/de4t05rf/file_stream\": EOF"}
+{"time":"2025-04-03T17:54:51.131230972+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/de4t05rf/file_stream\": EOF"}
+{"time":"2025-04-03T17:55:22.950565202+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/de4t05rf/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T17:55:31.492622591+08:00","level":"INFO","msg":"stream: closing","id":"de4t05rf"}
+{"time":"2025-04-03T17:55:31.492664351+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T17:55:31.492820008+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T17:55:33.453450782+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T17:55:38.602478135+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/de4t05rf/file_stream\": Gateway Timeout"}
+{"time":"2025-04-03T17:55:44.629514132+08:00","level":"INFO","msg":"handler: closed","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:55:44.629582024+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:55:44.629599633+08:00","level":"INFO","msg":"sender: closed","stream_id":"de4t05rf"}
+{"time":"2025-04-03T17:55:44.633613025+08:00","level":"INFO","msg":"stream: closed","id":"de4t05rf"}

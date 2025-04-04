@@ -1,0 +1,15 @@
+{"time":"2025-04-03T21:11:41.523623035+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/mnt/hdfs/zhusiqi/playground/wandb/run-20250403_211141-64tpxqa6/logs/debug-core.log"}
+{"time":"2025-04-03T21:11:43.006090419+08:00","level":"INFO","msg":"created new stream","id":"64tpxqa6"}
+{"time":"2025-04-03T21:11:43.006200126+08:00","level":"INFO","msg":"stream: started","id":"64tpxqa6"}
+{"time":"2025-04-03T21:11:43.006210081+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"64tpxqa6"}
+{"time":"2025-04-03T21:11:43.006222318+08:00","level":"INFO","msg":"handler: started","stream_id":"64tpxqa6"}
+{"time":"2025-04-03T21:11:43.006230001+08:00","level":"INFO","msg":"sender: started","stream_id":"64tpxqa6"}
+{"time":"2025-04-03T21:11:43.979864089+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:11:49.621028923+08:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open /mnt/hdfs/zhusiqi/playground/wandb/run-20250403_211141-64tpxqa6/files/output.log: errno 255"}
+{"time":"2025-04-03T21:19:25.665183009+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/64tpxqa6/file_stream\": EOF"}
+{"time":"2025-04-03T21:19:38.605791474+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/64tpxqa6/file_stream\": EOF"}
+{"time":"2025-04-03T21:20:10.770631019+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zsqzz/my-vllm-project/64tpxqa6/file_stream\": EOF"}
+{"time":"2025-04-03T21:21:36.134091548+08:00","level":"INFO","msg":"stream: closing","id":"64tpxqa6"}
+{"time":"2025-04-03T21:21:36.134126149+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T21:21:36.134371745+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T21:21:38.320404097+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
